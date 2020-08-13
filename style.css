@@ -1,0 +1,5 @@
+* {
+    box-sizing: border-box;/*tamaño total de la caja incluya:el contenido, el padding y los bordes */
+    font-family: "Roboto", sans-serif;/*tipografia*/
+    margin: 0;
+}
